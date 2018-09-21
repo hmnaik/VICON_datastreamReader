@@ -1,0 +1,227 @@
+
+
+Hardware Frame Number: 4454
+Subjects (2):
+  Subject #0
+    Name: testbird_883
+    Root Segment: pattern_883
+    Segments (1):
+      Segment #0
+        Name: pattern_883
+        Parent:
+     Children (0):
+        Static Translation: (0, 0, 0)
+        Static Rotation Helical: (0, 0, 0)
+        Static Rotation Matrix: (1, 0, 0, 0, 1, 0, 0, 0, 1)
+        Static Rotation Quaternion: (0, 0, 0, 1)
+        Static Rotation EulerXYZ: (-0, 0, -0)
+        Global Translation: (0, 0, 0) True
+        Global Rotation Helical: (0, 0, 0) True
+        Global Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Global Rotation Quaternion: (0, 0, 0, 0) True
+        Global Rotation EulerXYZ: (0, 0, 0) True
+        Local Translation: (0, 0, 0) True
+        Local Rotation Helical: (0, 0, 0) True
+        Local Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Local Rotation Quaternion: (0, 0, 0, 0) True
+        Local Rotation EulerXYZ: (0, 0, 0) True
+    Markers (4):
+      Marker #0: pattern_8831 (0, 0, 0) True
+      Marker #1: pattern_8832 (0, 0, 0) True
+      Marker #2: pattern_8833 (0, 0, 0) True
+      Marker #3: pattern_8834 (0, 0, 0) True
+  Subject #1
+    Name: SmallBirdPack
+    Root Segment: Root
+    Segments (1):
+      Segment #0
+        Name: Root
+        Parent:
+     Children (0):
+        Static Translation: (0, 0, 0)
+        Static Rotation Helical: (0, 0, 0)
+        Static Rotation Matrix: (1, 0, 0, 0, 1, 0, 0, 0, 1)
+        Static Rotation Quaternion: (0, 0, 0, 1)
+        Static Rotation EulerXYZ: (-0, 0, -0)
+        Global Translation: (0, 0, 0) True
+        Global Rotation Helical: (0, 0, 0) True
+        Global Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Global Rotation Quaternion: (0, 0, 0, 0) True
+        Global Rotation EulerXYZ: (0, 0, 0) True
+        Local Translation: (0, 0, 0) True
+        Local Rotation Helical: (0, 0, 0) True
+        Local Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Local Rotation Quaternion: (0, 0, 0, 0) True
+        Local Rotation EulerXYZ: (0, 0, 0) True
+    Markers (4):
+      Marker #0: Root1 (0, 0, 0) True
+      Marker #1: Root2 (0, 0, 0) True
+      Marker #2: Root3 (0, 0, 0) True
+      Marker #3: Root4 (0, 0, 0) True
+    Unlabeled Markers (0):
+    Labeled Markers (0):
+  Devices (0):
+  Force Plates: (0)
+  Eye Trackers: (0)
+Waiting for new frame...
+
+Frame Number: 4255
+Frame rate: 100
+Process Rate: 100Hz
+
+Timecode: 0h 0m 0s 0f 0sf False 0 0 0
+
+Latency: 0.00176746s
+  Data Synchronized 0.000318301s
+  Data Processed 0.00126943s
+  Delivered To DataStream 0.000179729s
+
+Hardware Frame Number: 4463
+Subjects (2):
+  Subject #0
+    Name: testbird_883
+    Root Segment: pattern_883
+    Segments (1):
+      Segment #0
+        Name: pattern_883
+        Parent:
+     Children (0):
+        Static Translation: (0, 0, 0)
+        Static Rotation Helical: (0, 0, 0)
+        Static Rotation Matrix: (1, 0, 0, 0, 1, 0, 0, 0, 1)
+        Static Rotation Quaternion: (0, 0, 0, 1)
+        Static Rotation EulerXYZ: (-0, 0, -0)
+        Global Translation: (0, 0, 0) True
+        Global Rotation Helical: (0, 0, 0) True
+        Global Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Global Rotation Quaternion: (0, 0, 0, 0) True
+        Global Rotation EulerXYZ: (0, 0, 0) True
+        Local Translation: (0, 0, 0) True
+        Local Rotation Helical: (0, 0, 0) True
+        Local Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Local Rotation Quaternion: (0, 0, 0, 0) True
+        Local Rotation EulerXYZ: (0, 0, 0) True
+    Markers (4):
+      Marker #0: pattern_8831 (0, 0, 0) True
+      Marker #1: pattern_8832 (0, 0, 0) True
+      Marker #2: pattern_8833 (0, 0, 0) True
+      Marker #3: pattern_8834 (0, 0, 0) True
+  Subject #1
+    Name: SmallBirdPack
+    Root Segment: Root
+    Segments (1):
+      Segment #0
+        Name: Root
+        Parent:
+     Children (0):
+        Static Translation: (0, 0, 0)
+        Static Rotation Helical: (0, 0, 0)
+        Static Rotation Matrix: (1, 0, 0, 0, 1, 0, 0, 0, 1)
+        Static Rotation Quaternion: (0, 0, 0, 1)
+        Static Rotation EulerXYZ: (-0, 0, -0)
+        Global Translation: (0, 0, 0) True
+        Global Rotation Helical: (0, 0, 0) True
+        Global Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Global Rotation Quaternion: (0, 0, 0, 0) True
+        Global Rotation EulerXYZ: (0, 0, 0) True
+        Local Translation: (0, 0, 0) True
+        Local Rotation Helical: (0, 0, 0) True
+        Local Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Local Rotation Quaternion: (0, 0, 0, 0) True
+        Local Rotation EulerXYZ: (0, 0, 0) True
+    Markers (4):
+      Marker #0: Root1 (0, 0, 0) True
+      Marker #1: Root2 (0, 0, 0) True
+      Marker #2: Root3 (0, 0, 0) True
+      Marker #3: Root4 (0, 0, 0) True
+    Unlabeled Markers (0):
+    Labeled Markers (0):
+  Devices (0):
+  Force Plates: (0)
+  Eye Trackers: (0)
+Waiting for new frame...
+Frame Number: 4265
+Frame rate: 100
+Process Rate: 101Hz
+
+Timecode: 0h 0m 0s 0f 0sf False 0 0 0
+
+Latency: 0.00172404s
+  Data Synchronized 0.000238631s
+  Data Processed 0.00131549s
+  Delivered To DataStream 0.000169912s
+
+Hardware Frame Number: 4473
+Subjects (2):
+  Subject #0
+    Name: testbird_883
+    Root Segment: pattern_883
+    Segments (1):
+      Segment #0
+        Name: pattern_883
+        Parent:
+     Children (0):
+        Static Translation: (0, 0, 0)
+        Static Rotation Helical: (0, 0, 0)
+        Static Rotation Matrix: (1, 0, 0, 0, 1, 0, 0, 0, 1)
+        Static Rotation Quaternion: (0, 0, 0, 1)
+        Static Rotation EulerXYZ: (-0, 0, -0)
+        Global Translation: (0, 0, 0) True
+        Global Rotation Helical: (0, 0, 0) True
+        Global Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Global Rotation Quaternion: (0, 0, 0, 0) True
+        Global Rotation EulerXYZ: (0, 0, 0) True
+        Local Translation: (0, 0, 0) True
+        Local Rotation Helical: (0, 0, 0) True
+        Local Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Local Rotation Quaternion: (0, 0, 0, 0) True
+        Local Rotation EulerXYZ: (0, 0, 0) True
+    Markers (4):
+      Marker #0: pattern_8831 (0, 0, 0) True
+      Marker #1: pattern_8832 (0, 0, 0) True
+      Marker #2: pattern_8833 (0, 0, 0) True
+      Marker #3: pattern_8834 (0, 0, 0) True
+  Subject #1
+    Name: SmallBirdPack
+    Root Segment: Root
+    Segments (1):
+      Segment #0
+        Name: Root
+        Parent:
+     Children (0):
+        Static Translation: (0, 0, 0)
+        Static Rotation Helical: (0, 0, 0)
+        Static Rotation Matrix: (1, 0, 0, 0, 1, 0, 0, 0, 1)
+        Static Rotation Quaternion: (0, 0, 0, 1)
+        Static Rotation EulerXYZ: (-0, 0, -0)
+        Global Translation: (0, 0, 0) True
+        Global Rotation Helical: (0, 0, 0) True
+        Global Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Global Rotation Quaternion: (0, 0, 0, 0) True
+        Global Rotation EulerXYZ: (0, 0, 0) True
+        Local Translation: (0, 0, 0) True
+        Local Rotation Helical: (0, 0, 0) True
+        Local Rotation Matrix: (0, 0, 0, 0, 0, 0, 0, 0, 0) True
+        Local Rotation Quaternion: (0, 0, 0, 0) True
+        Local Rotation EulerXYZ: (0, 0, 0) True
+    Markers (4):
+      Marker #0: Root1 (0, 0, 0) True
+      Marker #1: Root2 (0, 0, 0) True
+      Marker #2: Root3 (0, 0, 0) True
+      Marker #3: Root4 (0, 0, 0) True
+    Unlabeled Markers (0):
+    Labeled Markers (0):
+  Devices (0):
+  Force Plates: (0)
+  Eye Trackers: (0)
+Waiting for new frame...
+Frame Number: 4277
+Frame rate: 100
+Process Rate: 101Hz
+
+Timecode: 0h 0m 0s 0f 0sf False 0 0 0
+
+Latency: 0.00155375s
+  Data Synchronized 0.000254867s
+  Data Processed 0.00110896s
+  Delivered To DataStream 0.000189923s
